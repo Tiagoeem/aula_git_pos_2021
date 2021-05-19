@@ -5,3 +5,6 @@ print('Hello GIT')
 
 
 print('Alteracao realizada no github')
+
+
+print('Alteracao feita no local')
